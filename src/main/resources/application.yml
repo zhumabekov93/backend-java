@@ -7,7 +7,7 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/db
-    password: Aybek551404!
+    password: here should be your own password
     username: root
   jpa:
     show-sql: true
