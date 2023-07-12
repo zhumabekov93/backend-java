@@ -1,5 +1,5 @@
 jwt:
-  secret: '[gnaofgna25+2-660]^%%^$&!#%$^!agofgGVA9+A9G+**5A[0-99]aa*[a-Z]4[Z-A]#$^%&^*&(*&&)&(^*&%$AGREHTGMH<J<'
+  secret: 'ur_secret_key'
 
 server:
   port: 8081
